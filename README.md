@@ -2,11 +2,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-- /Users/adriancegielski/Project-13/Images/Microsoft_Azure_Configuration.png
+/Users/adriancegielski/Project-13/Images/Microsoft_Azure_Configuration.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of this file may be used to install only certain pieces of it, such as Filebeat.
 
-  - /Users/adriancegielski/Project-13/Ansible/install-elk.yml
+/Users/adriancegielski/Project-13/Ansible/install-elk.yml
 
 This document contains the following details:
 - Description of the Topology
